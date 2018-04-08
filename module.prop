@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=h850louder
+name=LG G5 Louder
+version=2018.04.08
+versionCode=201804080
+author=makikatze
+description=Makes the LG G5 (h850) headphone output louder when used with LineageOS 14.1 (Android 7.1.1)
 minMagisk=1500
